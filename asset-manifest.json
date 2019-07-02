@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstyearhub/static/css/main.2cce8147.chunk.css",
+    "main.js": "/firstyearhub/static/js/main.6d3bfcdb.chunk.js",
+    "main.js.map": "/firstyearhub/static/js/main.6d3bfcdb.chunk.js.map",
+    "runtime~main.js": "/firstyearhub/static/js/runtime~main.71b19294.js",
+    "runtime~main.js.map": "/firstyearhub/static/js/runtime~main.71b19294.js.map",
+    "static/js/2.b41502e9.chunk.js": "/firstyearhub/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/firstyearhub/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/firstyearhub/index.html",
+    "precache-manifest.83d429c48d72b3051ce988bc040b2335.js": "/firstyearhub/precache-manifest.83d429c48d72b3051ce988bc040b2335.js",
+    "service-worker.js": "/firstyearhub/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/firstyearhub/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/firstyearhub/static/media/logo.5d5d9eef.svg"
+  }
+}
