@@ -1,8 +1,7 @@
 /*!
-* Wireframe Pingendo template (https://templates.pingendo.com)
+
 * Based on: Bootstrap v4.1.3 (https://getbootstrap.com)
-* Copyright 2014-2018 Pingendo (https://pingendo.com)
-*/
+
 /*$body-bg: white;
 
 
@@ -73,7 +72,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-image: url("public/assets/styleguide/34893614465_b3cf53bfeb_o.jpg"); }
+
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }

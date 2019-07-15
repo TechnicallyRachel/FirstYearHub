@@ -11,6 +11,9 @@
 # production
 /build
 
+#unbuild components
+/components
+
 # misc
 .DS_Store
 .env.local
